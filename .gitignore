@@ -1,0 +1,4 @@
+test_data/*.tif
+test_data/*.tiff
+*.tif
+*.tiff
